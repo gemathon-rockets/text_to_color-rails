@@ -1,8 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
+require "texttocolor/version"
 
 Gem::Specification.new do |s|
   s.name        = "text_to_color-rails"
+  s.version     = Texttocolor::VERSION
   s.authors     = ["Nikita Singh"]
   s.date        = '2014-02-21'
   s.email       = ["nikitaa_singh@yahoo.co.in"]
