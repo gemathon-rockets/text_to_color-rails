@@ -1,4 +1,3 @@
-
 ## Installation
 
 Add the gem to the Gemfile:
@@ -9,7 +8,7 @@ Add the gem to the Gemfile:
 
 In your JavaScript manifest (e.g. `application.js`):
 
-    //= require text-to-color
+    //= require text_to_color
 
 
 ## Licensing
