@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.require_paths = ["lib"]
   s.licenses    = ['MIT']
-  s.homepage    = 'https://github.com/visual-search/visualsearch-rails'
+  s.homepage    = 'https://github.com/gemathon-rockets/text_to_color-rails'
   s.add_dependency "railties", ">= 3.1"
   s.add_development_dependency "bundler", "~> 1.0"
   s.add_development_dependency "rails",   ">= 3.1"
